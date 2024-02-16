@@ -47,7 +47,7 @@ const projectsData = [
     description: "Android - Employee Management App",
     image: "/images/projects/5.png",
     tag: ["All", "Mobile"],
-    gitUrl: "",
+    gitUrl: "https://github.com/technission/Employee-Management-Android-App",
     previewUrl:"https://www.youtube.com/watch?v=S8fMxLb65Ew",
   },
 ];
