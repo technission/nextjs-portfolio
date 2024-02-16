@@ -41,6 +41,15 @@ const projectsData = [
     gitUrl: "https://github.com/technission/Tech-academy-IOS-projects/tree/main/tictactoegame",
     previewUrl: "https://github.com/technission/Tech-academy-IOS-projects/tree/main/tictactoegame",
   },
+  {
+    id: 5,
+    title: "Employee Management App",
+    description: "Android - Employee Management App",
+    image: "/images/projects/5.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "",
+    previewUrl:"https://www.youtube.com/watch?v=S8fMxLb65Ew",
+  },
 ];
 
 const ProjectsSection = () => {
