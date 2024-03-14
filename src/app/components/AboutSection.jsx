@@ -10,13 +10,17 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Sql</li>
+        <li>Sql, MySql, and Firebase</li>
         <li>Android</li>
+        <li>Java</li>
+        <li>Kotlin</li>
         <li>C#</li>
         <li>Swift</li>
+        <li>SwiftUI</li>
         <li>JavaScript</li>
         <li>React</li>
         <li>Html</li>
+        <li>CSS</li>
         <li>Apis</li>
       </ul>
     ),
