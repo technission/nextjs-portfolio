@@ -66,7 +66,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am an iOS developer with a passion for creating
+            I am a mobile developer with a passion for creating
             interactive and responsive mobile applications. I have experience
             working with JavaScript, React, Sql, Apis, Swift, SwiftUI,
             Kotlin, HTML, CSS, C++, and Java. I am a quick learner and I am always
